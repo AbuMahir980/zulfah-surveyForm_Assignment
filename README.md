@@ -1,4 +1,4 @@
 # zulfah-surveyForm_Assignment
-First assignment for Zulfah Front-end Development Bootcamp
-This assignment was done to practice the various input types
-Semantic tags were duly considered 
+1. First assignment for Zulfah Front-end Development Bootcamp
+2. This assignment was done to practice the various input types
+3. Semantic tags were duly considered 
